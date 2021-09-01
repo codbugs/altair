@@ -4,7 +4,7 @@
   "description": "Altair is a Sass library based on HTML standard tags",
   "main": "index.js",
   "scripts": {
-    "run": "node build.js"
+    "dev": "node ./bundle/index.js"
   },
   "keywords": [
     "css",
