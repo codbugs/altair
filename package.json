@@ -1,0 +1,25 @@
+{
+  "name": "altair",
+  "version": "0.0.1",
+  "description": "Altair is a Sass library based on HTML standard tags",
+  "main": "index.js",
+  "scripts": {
+    "run": "node build.js"
+  },
+  "keywords": [
+    "css",
+    "sass",
+    "web",
+    "web styles",
+    "library",
+    "sass library",
+    "css library",
+    "html"
+  ],
+  "author": "Coding Bugs <coding.bugs@outlook.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "esbuild": "^0.12.20",
+    "esbuild-plugin-sass": "^0.6.0"
+  }
+}
